@@ -18,3 +18,4 @@ Notes and usage details for ads-mcp.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- link the usage section
